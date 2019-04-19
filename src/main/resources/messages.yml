@@ -40,7 +40,7 @@ Messages:
   SilentQuitMessageForAdmins: '&a[SV] %p% left silently.'
   RemindingMessage: '&aYou are still invisible!'
   ListMessagePrefix: '&aInvisible Players:&f '
-  ActionBarMessage: '&aYou are invisible to other players!'
+  ActionBarMessage: '&fYou are currently &c&lVANISHED'
   HideOtherMessage: '&aPlayer &e%other%&a is now invisible!'
   ShowOtherMessage: '&aPlayer &e%other%&a is now visible!'
   CannotHideOtherPlayer: '&cYou''re not allowed to change %other%''s visibility!'
