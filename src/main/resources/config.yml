@@ -18,7 +18,7 @@ InvisibilityFeatures:
   DisablePressurePlates: true
   # Should invisible players not be able to push other players or be able to be pushed?
   # WARNING: Uses the scoreboard and may conflict with other plugins!
-  DisablePush: false
+  DisablePush: true
   # Should vanished players pick up items by default? This can be changed individually with /sv tipu
   DefaultPickUpItemsOption: false
 
